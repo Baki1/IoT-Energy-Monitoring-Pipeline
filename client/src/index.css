@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Dashboard koyu tema - sayfa arka planı */
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
